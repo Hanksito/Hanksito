@@ -6,7 +6,7 @@
 ### <div align="center">hola, me llamo  Martin  y soy full stack  developer 👨‍💻 bienvenido a mi repositorio 👋</div>  
   
 
-- 🔭Actualmente estoy haciendo una colaboración en [Sporter](https://github.com/ManuelCebreiro/SporterTeam/tree/Develop)  
+- 🔭Actualmente estoy haciendo una colaboración en [Sporter](https://github.com/Hanksito/SporterTeam)  
   
 
 - 🌱 Mi ultimo proyecto finalizado es un [Blog](https://github.com/Hanksito/Blog-de-Starwars)  
