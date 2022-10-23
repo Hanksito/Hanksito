@@ -9,13 +9,14 @@
 - 🔭Actualmente estoy haciendo una colaboración en [Sporter](https://github.com/Hanksito/SporterTeam)  
   
 
-- 🌱 Mi ultimo proyecto finalizado es un [Blog](https://github.com/Hanksito/Blog-de-Starwars)  
+- 🌱 Aplicacion web de React consultando la API de swapi [Blog](https://github.com/Hanksito/Blog-de-Starwars)  
   
 
-- ❓ El que mas me gusta es este [Reloj](https://github.com/Hanksito/Clock)  
+- ❓ Aplicacion web de precios de criptomonedas [Cotizador-Criptomonedas
+](https://github.com/Hanksito/Cotizador-Criptomonedas)  
   
 
-- ⚡ Pero no podía faltar este [todolist](https://github.com/Hanksito/Todolist-Application-Using-React)  
+- ⚡ Pagina para veterinaria [historial de pacientes en la veterinaria](https://github.com/Hanksito/historial-de-pacientes)  
   
 
 <br/>  
