@@ -6,7 +6,8 @@
 ### <div align="center">hola, me llamo  Martin  y soy full stack  developer 👨‍💻 bienvenido a mi repositorio 👋</div>  
   
 
-- 🔭Actualmente estoy haciendo una colaboración en [Sporter](https://github.com/Hanksito/SporterTeam)  
+- 🔭Actualmente estoy haciendo una colaboración en [Sporter](https://github.com/Hanksito/SporterTeam) y si quieres verla funcionar presiona este  [link](https://sporterteam.herokuapp.com/)  
+   
   
 
 - 🌱 Aplicacion web de React consultando la API de swapi [Blog](https://github.com/Hanksito/Blog-de-Starwars)  
@@ -16,7 +17,7 @@
 ](https://github.com/Hanksito/Cotizador-Criptomonedas)  
   
 
-- ⚡ Pagina para controlar los gastos [Control de Presupuestos](https://github.com/Hanksito/Control-de-presupuesto) y si quieres verla funcionar pusa este  [link](https://willowy-centaur-b7856a.netlify.app/)  
+- ⚡ Pagina para controlar los gastos [Control de Presupuestos](https://github.com/Hanksito/Control-de-presupuesto) y si quieres verla funcionar presiona este  [link](https://willowy-centaur-b7856a.netlify.app/)  
   
 
 <br/>  
