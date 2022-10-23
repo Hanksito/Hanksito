@@ -16,7 +16,7 @@
 ](https://github.com/Hanksito/Cotizador-Criptomonedas)  
   
 
-- ⚡ Pagina para controlar los gastos [Control de Presupuestos](https://github.com/Hanksito/Control-de-presupuesto)  [ver en funcionamiento](https://willowy-centaur-b7856a.netlify.app/)  
+- ⚡ Pagina para controlar los gastos [Control de Presupuestos](https://github.com/Hanksito/Control-de-presupuesto) y si quieres verla funcionar pusa este  [link](https://willowy-centaur-b7856a.netlify.app/)  
   
 
 <br/>  
