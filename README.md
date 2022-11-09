@@ -17,7 +17,7 @@
 ](https://github.com/Hanksito/Cotizador-Criptomonedas)  
   
 
-- ⚡ Pagina s [Portafolio](https://github.com/Hanksito/PortFolio) y si quieres verla funcionar presiona este  [link](https://martindevelop-portfolio.netlify.app/)  
+- ⚡ Mi [Portafolio](https://github.com/Hanksito/PortFolio) y si quieres verla funcionar presiona este  [link](https://martindevelop-portfolio.netlify.app/)  
   
 
 <br/>  
