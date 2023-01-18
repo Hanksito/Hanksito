@@ -6,7 +6,7 @@
 ### <div align="center">hola, me llamo  Martin  y soy full stack  developer 👨‍💻 bienvenido a mi repositorio 👋</div>  
   
 
-- 🔭Actualmente estoy haciendo una colaboración en [Sporter](https://github.com/Hanksito/SporterTeam) y si quieres verla funcionar presiona este  [link](https://sporterteam.herokuapp.com/)  
+- 🔭Actualmente estoy haciendo una colaboración en [Sporter](https://github.com/Hanksito/SporterTeam)
    
   
 
