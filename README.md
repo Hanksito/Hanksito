@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyOeUld1mzw_dOEiKDVpIeBpFf8TsFPJRPFR_9CbCDD6YS4eom1_UqDfHc7KLP9wtagY&usqp=CAU" align="center" style="width: 100%" />
-</div>  
+  
   
 
 ### <div align="center">hola, me llamo  Martin  y soy full stack  developer 👨‍💻 bienvenido a mi repositorio 👋</div>  
