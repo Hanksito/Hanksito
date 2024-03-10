@@ -2,9 +2,6 @@
   
 
 ### <div align="center">hola, me llamo  Martin 👨‍💻 bienvenido a mi repositorio 👋</div>  
-  
-
-- 🔭Actualmente estoy haciendo una colaboración en [Sporter](https://github.com/Hanksito/SporterTeam)
    
   
 
