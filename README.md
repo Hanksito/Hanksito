@@ -1,127 +1,139 @@
-  
-  
-
-### <div align="center">hola, me llamo  Martin 👨‍💻 bienvenido a mi repositorio 👋</div>  
-   
-  
-
-- 🌱 Aplicacion web de React consultando la API de swapi [Blog](https://github.com/Hanksito/Blog-de-Starwars)  
-  
-
-- ❓ Aplicacion web de precios de criptomonedas [Cotizador-Criptomonedas
-](https://github.com/Hanksito/Cotizador-Criptomonedas)  
-  
-
-- ⚡ Mi [Portafolio](https://github.com/Hanksito/PortFolio) y si quieres verla funcionar presiona este  [link](https://martindevelop-portfolio.netlify.app/)  
-  
-
-<br/>  
-
-
-## Mis Habilidades 
-<table><tr><td valign="top" width="33%">
-
-
-
-### Front-end  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Contactame  
 <div align="center">
-<a href="https://github.com/hanksito" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in//martin-barja-balseiro/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Estadisticas de github 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hanksito&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-<br/>  
-
-  
-
-<br/>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Martín+Barja+Balseiro;Full+Stack+Developer;Blockchain+%26+Mining+Operations;Automation+%26+Infrastructure+Expert" alt="Typing SVG" />
+</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=hanksito&&style=flat-square" align="center" />
-</div>  
   
-
-<br/>  
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developermartinbarja)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanksito)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@minandovoy.com)
   
+</div>
 
-<br/>  
+<br/>
 
-  
+## 🚀 Sobre mí
 
-<br/>  
+> **Desarrollador Full Stack** especializado en **automatización**, **infraestructura cripto** y **operaciones de minado blockchain**. Fundador de **Minando Voy / HREF Digital**, con experiencia en integración de APIs, análisis de datos y gestión de infraestructura a gran escala.
 
+- 🔧 **Técnico informático** con sólida experiencia en hardware ASIC (Bitmain Antminer, Goldshell)
+- ⛏️ **Experto en operaciones de minería** Bitcoin, Kaspa, Scrypt y gestión de pools
+- 🤖 **Automatización avanzada** con Python, Google Apps Script y bots personalizados
+- 📊 **Análisis de datos** y dashboards en tiempo real con Google Sheets/Excel
+- 🏢 **Emprendedor** - Gestión de clientes, ventas de equipos y soporte técnico especializado
+- 📍 **Ubicación:** León, Castilla y León, España
 
-<br />
+<br/>
 
-----
+## 💼 Experiencia Profesional
 
+### 🏆 Minando Voy / HREF Digital SL
+**Fundador & Operations Manager** | 2020 - Actualidad
+
+- 🔹 Gestión completa de operaciones de minería cripto a escala industrial
+- 🔹 Desarrollo e integración de APIs para monitorización y control de equipos
+- 🔹 Automatización de procesos con Python y Google Apps Script
+- 🔹 Venta y soporte técnico de equipos ASIC (Bitmain, Goldshell, etc.)
+- 🔹 Análisis de rentabilidad y optimización de infraestructura eléctrica
+- 🔹 Gestión de relaciones con clientes (WhatsApp, Instagram, Email)
+- 🔹 Desarrollo de dashboards en tiempo real para monitoreo de operaciones
+
+<br/>
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</p>
+
+### Especializaciones
+<p>
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
+  <img src="https://img.shields.io/badge/Web_Scraping-FF6C37?style=for-the-badge&logo=scraping&logoColor=white" alt="Web Scraping" />
+</p>
+
+</div>
+
+<br/>
+
+## 📊 Proyectos Destacados
+
+### ⛏️ [Cotizador de Criptomonedas](https://github.com/Hanksito/Cotizador-Criptomonedas)
+Aplicación web para consultar precios en tiempo real de criptomonedas mediante API de CoinGecko.
+- 🔹 **Tech Stack:** React, API Integration
+- 🔹 Interfaz intuitiva para traders y mineros
+
+### ⭐ [Blog de Starwars](https://github.com/Hanksito/Blog-de-Starwars)
+Consultora de personajes de Star Wars utilizando la API SWAPI.
+- 🔹 **Tech Stack:** React, REST API
+- 🔹 Sistema de favoritos y búsqueda avanzada
+
+### 💼 [Portafolio Personal](https://github.com/Hanksito/Portafolio)
+Sitio web profesional con información de proyectos y habilidades.
+- 🔹 **Tech Stack:** HTML, CSS, JavaScript
+- 🔹 Diseño responsive y moderno
+
+### 🔐 [AdBlock & Security Extension](https://github.com/Hanksito/extension-chrome-adblock-security)
+Extensión de Chrome para bloqueo de anuncios y protección de privacidad.
+- 🔹 **Tech Stack:** JavaScript, Chrome Extensions API
+- 🔹 Bloqueo de trackers y mejora de rendimiento
+
+<br/>
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hanksito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanksito&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanksito&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 🎯 Áreas de Interés
+
+```python
+skills = {
+    "blockchain": ["Bitcoin Mining", "Kaspa", "Pool Operations", "ASIC Hardware"],
+    "automation": ["Python Bots", "Google Apps Script", "Web Scraping", "API Integration"],
+    "infrastructure": ["Data Centers", "Electrical Systems", "Cooling Solutions"],
+    "development": ["Full Stack", "REST APIs", "Real-time Dashboards"],
+    "business": ["Operations Management", "Client Relations", "Technical Sales"]
+}
