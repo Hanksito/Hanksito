@@ -1,7 +1,7 @@
 # 🚀 Martín Barja | Full Stack Developer
 
 > **Building scalable web solutions that drive business results**  
-> Full Stack Developer | React • Angular • Python • Node.js • +2 años de experiencia
+> Full Stack Developer | React • Angular • Python • Node.js | +2 años de experiencia
 
 ---
 
@@ -20,68 +20,29 @@ Soy un **Full Stack Developer apasionado** especializado en crear aplicaciones w
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend (Experto)
-<div align="center">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
-</div>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material_UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### ⚙️ Backend (Experto)
-<div align="center">
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original.png" alt="Express" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" alt="Docker" height="50" /></a>
-</div>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌐 Otras Herramientas
-<div align="center">
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
-<a href="https://developers.google.com/merchant-center" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/images/branding/product/1x/googleg_40dp.png" alt="Google Ads" height="50" /></a>
-</div>
-
----
-
-## 💼 Experiencia Profesional
-
-### Programador Junior | HREF DIGITAL
-**Ago 2023 - Actualidad** | Narón, España
-
-**Impacto:**
-- 🚀 Desarrollé y mantuve **5+ aplicaciones web** en producción con Python, React y Angular
-- 📊 Integré campañas en **Google Merchant Center/Ads** mejorando visibilidad y conversión de clientes
-- 🔧 Administración de servidores y **deployment de proyectos en producción** con Git/GitHub
-- 👥 **Soporte técnico proactivo** a clientes, incluyendo hardware troubleshooting
-- 💻 Stack diario: Python • React • Angular • WordPress • MySQL • REST APIs • Git
-
-**Habilidades demostradas:**
-Full Stack Development | Metodología Ágil | DevOps | Relaciones con clientes
-
----
-
-### Full Stack Developer | Diveasapp
-**Ene 2023 - Ago 2023** | Proyecto Startup
-
-**Impacto:**
-- ⚡ Desarrollé arquitectura **Full Stack completa** en equipo de 3 developers bajo Scrum
-- 🎯 Implementé **autenticación JWT** con backend robusto en Flask + MySQL
-- 🎨 Creé interfaces atractivas y responsivas con **React + Bootstrap + CSS3**
-- 📦 Participé en todo el ciclo: diseño → development → testing → deployment
-- 🔄 Entregas quincenales bajo presión, demostrando capacidad de work under pressure
-
-**Habilidades demostradas:**
-Full Stack Architecture | Scrum | JWT Authentication | Database Design | Team Collaboration
+### 🌐 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Google_Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -91,9 +52,9 @@ Full Stack Architecture | Scrum | JWT Authentication | Database Design | Team Co
 **[Ver Repositorio](https://github.com/Hanksito/Blog-de-Starwars)** | React + Swapi API
 
 Aplicación web que integra la API SWAPI de Star Wars con un diseño atractivo. Demuestra capacidades en:
-- Consumo eficiente de APIs REST
-- Gestión de estado en React
-- Diseño responsive
+- ✅ Consumo eficiente de APIs REST
+- ✅ Gestión de estado en React
+- ✅ Diseño responsive y optimizado
 
 ---
 
@@ -101,9 +62,9 @@ Aplicación web que integra la API SWAPI de Star Wars con un diseño atractivo. 
 **[Ver Repositorio](https://github.com/Hanksito/Cotizador-Criptomonedas)** | React + APIs Reales
 
 Cotizador de criptomonedas con actualizaciones en tiempo real. Apunta a tu experiencia en fintech:
-- Integración de APIs externas
-- Manejo de datos en tiempo real
-- UX intuitivo para datos financieros
+- ✅ Integración de APIs externas
+- ✅ Manejo de datos en tiempo real
+- ✅ UX intuitivo para datos financieros
 
 ---
 
@@ -111,9 +72,9 @@ Cotizador de criptomonedas con actualizaciones en tiempo real. Apunta a tu exper
 **[Ver Código](https://github.com/Hanksito/PortFolio)** | **[Ver en Vivo](https://martindevelop-portfolio.netlify.app/)**
 
 Portfolio completo que demuestra tu capacidad para crear experiencias digitales profesionales.
-- Diseño moderno y atractivo
-- Optimizado para conversión
-- Deploy en Netlify
+- ✅ Diseño moderno y atractivo
+- ✅ Optimizado para conversión
+- ✅ Deploy en Netlify con CI/CD
 
 ---
 
@@ -126,7 +87,7 @@ Portfolio completo que demuestra tu capacidad para crear experiencias digitales 
 | **Proactividad** | Identifico y resuelvo problemas antes de que escalen |
 | **Comunicación clara** | Trabajo efectivo con no-técnicos y equipos técnicos |
 | **Adaptabilidad** | Cómodo en startups ágiles y equipos grandes |
-| **Full Stack real** | No soy frontend con dabble de backend, soy ambos a nivel production |
+| **Full Stack real** | Production-level en frontend, backend, DevOps |
 | **Results-driven** | Enfocado en entregar valor, no solo features |
 
 ---
@@ -154,20 +115,21 @@ Portfolio completo que demuestra tu capacidad para crear experiencias digitales 
 
 ---
 
-## ⭐ Testimonios & Social Proof
+## ⭐ Social Proof
 
-*"Martín es un developer que entiende el negocio. No solo entrega código, entiende por qué lo hace."* - Tu experiencia en HREF DIGITAL y Diveasapp lo demuestra
+*"Martín es un developer que entiende el negocio. No solo entrega código, entiende por qué lo hace."*
 
-**¿Listo para colaborar?** Abre un issue, escribe un email o llama. Respondo rápido 🚀
+**¿Listo para colaborar?** Respondo rápido ⚡
 
 ---
 
-## 📚 Últimas Actualizaciones
+## 📚 Estado Actual
 
-- ✅ Full Stack Developer en HREF DIGITAL (2023-Actualidad)
+- ✅ Full Stack Developer (2023 - Actualidad)
 - ✅ Experiencia con Google Ads & Merchant Center
-- ✅ Portfolio actualizado: [martindevelop-portfolio.netlify.app](https://martindevelop-portfolio.netlify.app/)
-- 📌 Abierto a: **Roles Full Stack | Startups | Proyectos retadores**
+- ✅ 3+ Proyectos en producción
+- ✅ Portfolio en vivo: [martindevelop-portfolio.netlify.app](https://martindevelop-portfolio.netlify.app/)
+- 📌 **Abierto a:** Full Stack roles | Startups | Proyectos retadores
 
 ---
 
@@ -177,6 +139,6 @@ Portfolio completo que demuestra tu capacidad para crear experiencias digitales 
 
 **¿Tienes un reto que necesita solución? Vamos a hacerlo realidad.** 🎯
 
-[Contacta conmigo](mailto:barjabalseiro@gmail.com) | [GitHub](https://github.com/Hanksito) | [Portfolio](https://martindevelop-portfolio.netlify.app/)
+[📧 Email](mailto:barjabalseiro@gmail.com) • [💼 GitHub](https://github.com/Hanksito) • [🖼️ Portfolio](https://martindevelop-portfolio.netlify.app/)
 
 </div>
